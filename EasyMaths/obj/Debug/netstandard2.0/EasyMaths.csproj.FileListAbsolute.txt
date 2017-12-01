@@ -1,0 +1,8 @@
+/home/cafeina/Code/DNet/Tests/EasyMaths/bin/Debug/netstandard2.0/EasyMaths.deps.json
+/home/cafeina/Code/DNet/Tests/EasyMaths/bin/Debug/netstandard2.0/EasyMaths.dll
+/home/cafeina/Code/DNet/Tests/EasyMaths/bin/Debug/netstandard2.0/EasyMaths.pdb
+/home/cafeina/Code/DNet/Tests/EasyMaths/obj/Debug/netstandard2.0/EasyMaths.csproj.CoreCompileInputs.cache
+/home/cafeina/Code/DNet/Tests/EasyMaths/obj/Debug/netstandard2.0/EasyMaths.AssemblyInfoInputs.cache
+/home/cafeina/Code/DNet/Tests/EasyMaths/obj/Debug/netstandard2.0/EasyMaths.AssemblyInfo.cs
+/home/cafeina/Code/DNet/Tests/EasyMaths/obj/Debug/netstandard2.0/EasyMaths.dll
+/home/cafeina/Code/DNet/Tests/EasyMaths/obj/Debug/netstandard2.0/EasyMaths.pdb
